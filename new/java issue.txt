@@ -1,0 +1,16 @@
+CSE6_1 - pro - http://cse02-iiith.vlabs.ac.in/exp6/simulation/IfElse/index.htmll
+
+         commit url - https://github.com/anujchak/computer-programming-responsive-iiith/commit/908b97befecfdd74d81cd33d4a2c962bca30d54b
+
+         commit id - 908b97befecfdd74d81cd33d4a2c962bca30d54b
+CSE6_2 - PRO - http://cse02-iiith.vlabs.ac.in/exp6/simulation/SwitchCase/index.html
+
+         COMMIT url - https://github.com/anujchak/computer-programming-responsive-iiith/commit/5432a297879e213aaf454550c2db5c5641e3bcae
+
+         commit id - 5432a297879e213aaf454550c2db5c5641e3bcae
+CSE10_1 - PRO - http://cse02-iiith.vlabs.ac.in/exp10/simulation/index.htm
+
+           COMMIT URL - https://github.com/anujchak/computer-programming-responsive-iiith/commit/5fbc0bc5501f26dd81a9887d155a4145cc3e0605
+
+           commit id - 5fbc0bc5501f26dd81a9887d155a4145cc3e0605
+
